@@ -1,5 +1,5 @@
 package com.pokemoncoin.rest.Model;
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 
 
